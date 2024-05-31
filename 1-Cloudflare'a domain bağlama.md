@@ -26,7 +26,7 @@ Benim örnek vereceğim firmaları söyleyim; **Domain firması - spaceship** **
 
 ![9](https://i.hizliresim.com/lh2wmrs.png)
 
-**4)** Son görseldeki adımdan sonra domain nameserverlarının işleve geçmesi maksimum 24 saat sürüyor. Bazen direkt işleme geçiyor. Spaceship'te yaklaşık 6 saat falan sürdü. Önemli değil biz domaini taşıdık. Artık her şeyi Cloudflare üzerinden yapcaz. Şimdi siz [Coinsspor reposundaki](https://github.com/coinsspor/crossfi/blob/main/Crossfi%20Rpc%20ve%20Api%20Kurulumu.md) RPC ve API kurulumunu yapın. Bu 1.bölümdü. Bitti...
+**4)** Son görseldeki adımdan sonra domain nameserverlarının işleve geçmesi maksimum 24 saat sürüyor. Bazen direkt işleme geçiyor. Spaceship'te yaklaşık 6 saat falan sürdü. Önemli değil biz domaini taşıdık. Artık her şeyi Cloudflare üzerinden yapcaz. Şimdi siz [Coinsspor reposundaki](https://github.com/coinsspor/crossfi/blob/main/Crossfi%20Rpc%20ve%20Api%20Kurulumu.md) RPC ve API kurulumunu yapın ama CertBot kısmını bekletin. 2.bölümde size hatırlatacağım. CertBot kısmına o zaman dönersiniz. Bu 1.bölümdü. Bitti...
 
 *2. Bölüm için Coinsspor'un anlattığı gibi API ve RPC'nizi kurduktan sonra hazırda sunucu ip'niz olsun. Cloudflare'dan subdomain oluşturup (aslında tam subdomain değil ama çalışıyor sorun yok) sunucumuza bağlayacağız. Aslında Coinsspor hocam da açıklamış ama gerekli tüm ayarların üstünden geçeceğiz.*
 
