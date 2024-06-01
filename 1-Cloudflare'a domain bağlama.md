@@ -5,6 +5,8 @@ Benim örnek vereceğim firmaları söyleyim; **Domain firması - spaceship** **
 
 ![1](https://i.hizliresim.com/bf9rvqq.png)
 
+**Alttaki görselde kendi satın aldığınız domain adını yazın. GÖrseldeki örnek farazi. Mesela ben aslında oraya mictonode.com yazdım**
+
 ![2](https://i.hizliresim.com/c1vzad1.png)
 
 ![3](https://i.hizliresim.com/gj4dzyd.png)
