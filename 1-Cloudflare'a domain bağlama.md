@@ -20,8 +20,6 @@ Benim örnek vereceğim firmaları söyleyim; **Domain firması - spaceship** **
 
 ![6](https://i.hizliresim.com/i1rtwiu.png)
 
-![7](https://i.hizliresim.com/i1rtwiu.png)
-
 ![8](https://i.hizliresim.com/op7ario.png)
 
 ![9](https://i.hizliresim.com/lh2wmrs.png)
