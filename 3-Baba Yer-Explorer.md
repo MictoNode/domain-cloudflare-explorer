@@ -38,7 +38,7 @@
 
   ![12](https://i.hizliresim.com/t580nlr.jpg)
 
-**5)** Geri kalan explorer özelleştirme sizde. /airchains gibi sayfalarda f5 atınca 404 hatası veriyor. Onun çözümü de tek satır kod. Vercel.json diye bir klasör oluşturun içine aşağıda attığım kodu atın ve kaydedin. Dizinle birlikte görselleri atıyorum. 
+**5)** Geri kalan explorer özelleştirme sizde. /airchains gibi sayfalarda f5 atınca 404 hatası veriyor. Onun çözümü de tek satır kod. Vercel.json diye bir dosya oluşturun içine aşağıda attığım kodu atın ve kaydedin. Dizinle birlikte görselleri atıyorum. 
 Not: Github'a attığınız her şeyi vercel otomatik deploy edecektir.
 
 ```
