@@ -23,4 +23,4 @@
   ![5](https://i.hizliresim.com/ouh0z15.jpg)
 
 
-  **5)** Daha fazla bizlik bir ayar yok. İngilizce makalelere göz atarak ekstra ayarları öğrenebilirsiniz ama bunlar iş görecektir. Ben yine explorer kısmında Cloudflare kısmına domain bağlamak için bahsedeceğim. Cloudflare ile aramızı iyi tutalım.
+  **5)** Daha fazla bizlik bir ayar yok. İngilizce makalelere göz atarak ekstra ayarları öğrenebilirsiniz ama bunlar iş görecektir. Ben yine explorer kısmında Cloudflare kısmına domain bağlamak için bahsedeceğim. Cloudflare ile aramızı iyi tutalım. Bu arada CertBot kısmını şuan yapanilirsiniz ama sanırım cloudflare'sa ssl sertifikası atıyor otomatik.
