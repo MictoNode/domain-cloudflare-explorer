@@ -3,28 +3,28 @@ Benim örnek vereceğim firmaları söyleyim; **Domain firması - spaceship** **
 
 **1)** İlk yapmamız gereken bir cloudflare hesabı oluşturmak. Daha sonrada anasayfadan direkt "Get started" a tıklıyoruz. Aldığımız domaini giriyoruz. Bedavayı seçiyoruz. Biraz bekletecek domain'in dnslerini vs. çekecek.
 
-![1](https://i.hizliresim.com/bf9rvqq.png)
+![image](https://github.com/user-attachments/assets/bf2bb996-9db2-4c5a-827d-ca8bf0aba671)
+
 
 **Alttaki görselde kendi satın aldığınız domain adını yazın. Görseldeki örnek farazi. Mesela ben aslında oraya mictonode.com yazdım**
 
-![2](https://i.hizliresim.com/c1vzad1.png)
+![image](https://github.com/user-attachments/assets/e90f4289-22ed-4b3e-97d9-c18ed86a7ab9)
 
-![3](https://i.hizliresim.com/gj4dzyd.png)
+![image](https://github.com/user-attachments/assets/6288d275-dbf3-42c6-8076-85ea1e8e3093)
 
-![4](https://i.hizliresim.com/1jv796u.png)
-
+![image](https://github.com/user-attachments/assets/02c79f3f-dbef-41d7-bd20-4be130ed66fe)
 
 **2)** Burada odaklanmanız gereken şuanlık en alttaki "nameservers" kısmı. Merak edersiniz de görselde biraz açıkladım. Nameservers kısmında yazanların ikisini de kopyalayın kenarda dursun lazım olacak.
 
-![5](https://i.hizliresim.com/chjxkw1.png)
+![image](https://github.com/user-attachments/assets/b8a3a6e5-1b6b-499d-a4b3-8e4d7be96102)
 
 **3)** Şimdi domain aldığımız yere dönüyoruz. Kendi domaini firmanızın illa nameserver değiştirme yeri vardır. Spaceship'e kayıt olup aldıktan sonra sağ üstte "Launchpad" tıklayınca karşınıza bir panel gelecek. Oradan Domain List'e tıklıyoruz. Domain'in Nameserverlarını Cloudflare Nameserverlarla değiştiriyoruz. Görselde açıkladım zaten.
 
-![6](https://i.hizliresim.com/i1rtwiu.png)
+![image](https://github.com/user-attachments/assets/2f8aa75f-1a04-4995-84ad-904d9a71529b)
 
-![8](https://i.hizliresim.com/op7ario.png)
+![image](https://github.com/user-attachments/assets/c3a3656e-6572-48d5-923f-62ea3b46cb90)
 
-![9](https://i.hizliresim.com/lh2wmrs.png)
+![image](https://github.com/user-attachments/assets/46ac6959-e33f-4e15-926c-7a61d75179b1)
 
 **4)** Son görseldeki adımdan sonra domain nameserverlarının işleve geçmesi maksimum 24 saat sürüyor. Bazen direkt işleme geçiyor. Spaceship'te yaklaşık 6 saat falan sürdü. Önemli değil biz domaini taşıdık. Artık her şeyi Cloudflare üzerinden yapcaz. Şimdi siz [Coinsspor reposundaki](https://github.com/coinsspor/crossfi/blob/main/Crossfi%20Rpc%20ve%20Api%20Kurulumu.md) RPC ve API kurulumunu yapın ama CertBot kısmını bekletin. 2.bölümde size hatırlatacağım. CertBot kısmına o zaman dönersiniz. Bu 1.bölümdü. Bitti...
 
